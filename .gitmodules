@@ -1,0 +1,10 @@
+[submodule "c/v1"]
+	path = c/v1
+	url = git@github.com:jakwings/fortune.c
+	branch = v1
+	ignore = dirty
+[submodule "c/v2"]
+	path = c/v2
+	url = git@github.com:jakwings/fortune.c
+	branch = v2
+	ignore = dirty
